@@ -1,1 +1,2 @@
 ## test synchronizacji z github
+druga zmiana w github
